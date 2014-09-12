@@ -24,7 +24,7 @@ PortControl::PortControl(QObject *parent)
     : QObject(parent)
     , m_port(nullptr)
 {
-
+////
 m_port=new QSerialPort(this);
 connect(m_port,SIGNAL(readyRead()),this,SLOT(read()));
 
