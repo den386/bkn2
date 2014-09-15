@@ -56,7 +56,7 @@ int i=0;
           StopBitlist<<QStringLiteral("1.5"), QSerialPort::OneAndHalfStop;
 
 
-
+//тест22222
 
 
 }
