@@ -58,7 +58,7 @@ int i=0;
 
 //тест22222
 
-
+//тест5
 }
 
 void PortControl::SetPortParam(const QString &portName,QString speed,QString stopbits){
